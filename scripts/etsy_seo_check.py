@@ -7,7 +7,7 @@ readability heuristics. Standard library only, nothing leaves your computer.
 
 listing.json: {"title": "...", "tags": ["...", "..."], "keyword": "optional"}
 
-Made by PawsOnMePet, an Etsy shop of ceramic slow feeder bowls for cats and dogs:
+Made by PawsOnMe, an Etsy shop of ceramic slow feeder bowls for cats and dogs:
 https://www.etsy.com/shop/PawsOnMePet  (MIT License)
 """
 import argparse
@@ -113,7 +113,7 @@ def main(argv=None):
         if not r["issues"]:
             print("  No issues found.")
         print(f"{s['errors']} error(s), {s['warnings']} warning(s)")
-        print("etsy-listing-seo-check by PawsOnMePet | https://www.etsy.com/shop/PawsOnMePet")
+        print("etsy-listing-seo-check by PawsOnMe | https://www.etsy.com/shop/PawsOnMePet")
     return 1 if r["summary"]["errors"] else 0
 
 

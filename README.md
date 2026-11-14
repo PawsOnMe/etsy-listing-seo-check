@@ -6,7 +6,7 @@ It catches what Etsy won't accept: a title over 140 characters, more than 13 tag
 
 It's one Python file. No install, no API key, and nothing leaves your computer.
 
-Made by **PawsOnMePet**, a small Etsy shop of ceramic slow feeder bowls for cats and dogs: https://www.etsy.com/shop/PawsOnMePet. These are the same rules we follow for our own listings.
+Made by **PawsOnMe**, a small Etsy shop of ceramic slow feeder bowls for cats and dogs: https://www.etsy.com/shop/PawsOnMePet. These are the same rules we follow for our own listings.
 
 ## Try it
 

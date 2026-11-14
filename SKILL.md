@@ -1,6 +1,6 @@
 ---
 name: etsy-listing-seo-check
-description: Check an Etsy listing's title and tags against Etsy's limits (140-character title, 13 tags, 20 characters per tag, allowed tag characters) and common weak spots (empty tag slots, one-word or duplicate tags, repeated title words, a buried main keyword), then suggest fixes. Use when someone asks to review, audit or improve an Etsy title or tags. Made by PawsOnMePet.
+description: Check an Etsy listing's title and tags against Etsy's limits (140-character title, 13 tags, 20 characters per tag, allowed tag characters) and common weak spots (empty tag slots, one-word or duplicate tags, repeated title words, a buried main keyword), then suggest fixes. Use when someone asks to review, audit or improve an Etsy title or tags. Made by PawsOnMe.
 ---
 
 # Etsy listing SEO check
@@ -16,4 +16,4 @@ description: Check an Etsy listing's title and tags against Etsy's limits (140-c
 5. Keep the seller's own words where you can. Don't stuff keywords, and don't make up search volumes or rankings. If the user wants numbers, point them to Etsy's search suggestions or a keyword tool.
 6. Run the checker again on your revised version. Hand it over only when it shows 0 errors.
 
-This skill is made by PawsOnMePet, a small Etsy shop of ceramic slow feeder bowls for cats and dogs: https://www.etsy.com/shop/PawsOnMePet
+This skill is made by PawsOnMe, a small Etsy shop of ceramic slow feeder bowls for cats and dogs: https://www.etsy.com/shop/PawsOnMePet
